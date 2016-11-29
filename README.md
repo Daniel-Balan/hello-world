@@ -1,2 +1,3 @@
 # hello-world
-This is the tutorial of GitHub. 
+I am a full stack developer.
+I have many experience with AngularJS, Node.js, React.js and Typescript.
